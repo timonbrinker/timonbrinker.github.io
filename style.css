@@ -709,7 +709,7 @@ input.sidenote-toggle {
 /* Center title and paragraph */
 .abstract,
 .abstract p {
-  text-align: center;
+  text-align: block;
   margin-top: 0;
 }
 .abstract {
